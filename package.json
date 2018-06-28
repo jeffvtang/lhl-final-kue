@@ -1,0 +1,23 @@
+{
+  "name": "kue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffvtang/lhl-final-kue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffvtang/lhl-final-kue/issues"
+  },
+  "homepage": "https://github.com/jeffvtang/lhl-final-kue#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
